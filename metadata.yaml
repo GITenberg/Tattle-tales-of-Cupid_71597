@@ -1,0 +1,30 @@
+_repo: Tattle-tales-of-Cupid_71597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ford, Paul Leicester
+    birthdate: 1865
+    deathdate: 1902
+    gutenberg_agent_id: '1851'
+    url: http://www.gutenberg.org/2009/agents/1851
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Leicester_Ford
+description: ''
+gutenberg_issued: '2023-09-09'
+identifiers:
+  gutenberg: '71597'
+language: en
+pgterms:marc904: https://archive.org/details/tattletalescupid00fordrich/page/n5/mode/2up
+pgterms:marc905: 20220129183224ford
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bDodd, Mead and Company, $c1896, copyright 1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tattle-tales of Cupid
+url: http://www.gutenberg.org/ebooks/71597
